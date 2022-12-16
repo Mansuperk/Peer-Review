@@ -73,7 +73,7 @@
     },
     {
       "cell_type": "markdown",
-      "source": "|Important Philosophers of the world|\n-------------------------------------\n|- Socrates |\n|- Plato |\n|- Aristotle|\n-------------\n- See more in __[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)__",
+      "source": "|Important Philosophers of the world|\n---\n|- Socrates |\n|- Plato |\n|- Aristotle|\n---\n- See more in __[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)__",
       "metadata": {}
     },
     {
